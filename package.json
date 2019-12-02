@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/No-Break/alarm-planner-data-api#readme",
   "dependencies": {
+    "jest": "^24.9.0",
+    "koa": "^2.11.0",
     "sequelize": "^5.21.2",
     "sqlite3": "^4.1.0"
   }
